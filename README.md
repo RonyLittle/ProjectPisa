@@ -1,6 +1,6 @@
 # Deep Analysis of PISA 2022 Data: Interrelations of Academic Achievement with Sociocultural Factors
 
-![Image alt](https://github.com/RonyLittle/ProjectPisa/tree/master/Project%20Visualizations%20(non-dynamic)/2022-02-18-at-13.02.44.jpeg)
+![Image alt](https://raw.githubusercontent.com/RonyLittle/ProjectPisa/master/Project%20Visualizations%20(non-dynamic)/2022-02-18-at-13.02.44.jpeg)
 
 ## Introduction
 
